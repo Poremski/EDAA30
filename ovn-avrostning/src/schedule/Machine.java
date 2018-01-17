@@ -30,9 +30,8 @@ public class Machine {
 	/** Tar bort och returnerar nästa jobb som maskinen ska utföra.
 	 	Returnerar null om maskinen inte har några jobb. */
 	public Job getNextJob() {
-	    if (jobs.size() > 0) jobs.remove(0);
-	    if (jobs.size() != 0) return jobs.get(0);
-	    else return null;
+	    if (jobs.isEmpty()) return null;
+	    return jobs.remove(0);
 	}
 
 	/** Tar reda på den totala tiden för maskinens jobb. */
