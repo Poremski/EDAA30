@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab1/lab1.iml" filepath="$PROJECT_DIR$/lab1/lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2/lab2.iml" filepath="$PROJECT_DIR$/lab2/lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab3/lab3.iml" filepath="$PROJECT_DIR$/lab3/lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4/lab4.iml" filepath="$PROJECT_DIR$/lab4/lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab5/lab5.iml" filepath="$PROJECT_DIR$/lab5/lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab6/lab6.iml" filepath="$PROJECT_DIR$/lab6/lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn-avrostning/ovn-avrostning.iml" filepath="$PROJECT_DIR$/ovn-avrostning/ovn-avrostning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn-bst/ovn-bst.iml" filepath="$PROJECT_DIR$/ovn-bst/ovn-bst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn-interface/ovn-interface.iml" filepath="$PROJECT_DIR$/ovn-interface/ovn-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn-linked-list/ovn-linked-list.iml" filepath="$PROJECT_DIR$/ovn-linked-list/ovn-linked-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn-map-set/ovn-map-set.iml" filepath="$PROJECT_DIR$/ovn-map-set/ovn-map-set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn-priorityqueue/ovn-priorityqueue.iml" filepath="$PROJECT_DIR$/ovn-priorityqueue/ovn-priorityqueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn-radixsort/ovn-radixsort.iml" filepath="$PROJECT_DIR$/ovn-radixsort/ovn-radixsort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn-rekursion/ovn-rekursion.iml" filepath="$PROJECT_DIR$/ovn-rekursion/ovn-rekursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn-tree/ovn-tree.iml" filepath="$PROJECT_DIR$/ovn-tree/ovn-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn_impl-generisk-klass/ovn_impl-generisk-klass.iml" filepath="$PROJECT_DIR$/ovn_impl-generisk-klass/ovn_impl-generisk-klass.iml" />
+    </modules>
+  </component>
+</project>
