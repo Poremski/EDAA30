@@ -9,12 +9,14 @@ public class SingleWordCounter implements TextProcessor {
 		n = 0;
 	}
 
+    @Override
 	public void process(String w) {
-		if (w == word) {
+		if (word.equals(w)) {
 			n++;
 		}
 	}
 
+    @Override
 	public void report() {
 		System.out.println(word + ": " + n);
 	}
