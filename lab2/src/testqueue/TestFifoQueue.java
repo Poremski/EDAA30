@@ -5,8 +5,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import queue_delegate.FifoQueue;
-//import queue_singlelinkedlist.FifoQueue;
+//import queue_delegate.FifoQueue;
+import queue_singlelinkedlist.FifoQueue;
 
 import java.util.NoSuchElementException;
 import java.util.Queue;
@@ -106,7 +106,7 @@ public class TestFifoQueue {
 		}
 		assertTrue("Queue not empty", myIntQueue.isEmpty());
 	}
-	
+
 	/**
 	 * Test that polling all elements gives an empty queue.
 	 */
@@ -128,7 +128,7 @@ public class TestFifoQueue {
 		assertTrue("Wrong size after poll", myIntQueue.size() == 0);
 		assertTrue("Queue not empty after poll", myIntQueue.isEmpty());
 	}
-	
+
 	/**
 	 * Test iterator on empty queue.
 	 */
@@ -143,7 +143,7 @@ public class TestFifoQueue {
 			// successful test
 		}
 	}
-	
+
 	/**
 	 * Test iterator on non empty queue.
 	 */
